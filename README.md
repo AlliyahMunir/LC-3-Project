@@ -6,7 +6,7 @@ Group's Name: We're All In This Together
 Group Members Include:
          Alliyah Munir, 
          Lissette Serrato,
-         Ariana Nelson, &
+         Ariana Nelson &
          Isaac Martinez
          
 ## Table of contents
