@@ -21,7 +21,7 @@ Press on the link above to view our LC-3 on a Bubble Sort Algorithm! 😃
 ---
 
 ## How To Use
-
+In order to be able to use the LC-3 program above, one must have installed an LC-3 Simulator as well as an LC-3 Editor on their desktop. Furthermore, a mouse and a keyboard are recommended in order to input your choice of values to run the program. For more information, check out the documentation file uploaded above!
 
 ## References
 [Back To The Top](#General-Information)
@@ -43,7 +43,7 @@ IMPORTANT SDGJOVHBPAPDK
 
  License
 
-Copyright (c) [2019] [Alliyah Munir]
+Copyright (c) [2020] [Alliyah Munir]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
