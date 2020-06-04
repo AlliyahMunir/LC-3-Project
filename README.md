@@ -33,7 +33,7 @@ Press on the link above to view our LC-3 on a Bubble Sort Algorithm! 😃
 In order to be able to use the LC-3 program above, one must have installed an LC-3 Simulator as well as an LC-3 Editor on their desktop. Furthermore, a mouse and a keyboard are recommended in order to input your choice of values to run the program. For more information, check out the documentation file uploaded above!
 
 ## References
-[Back To The Top](#General-Information)
+
 Reference for Template
 -------------------------------------------
  James Q. Quick free ReadMe template 
@@ -41,10 +41,7 @@ Reference for Template
 
 Reference for LC-3 Assembly Code
 -------------------------------------------
-
-
 IMPORTANT SDGJOVHBPAPDK
-
 
 ---
 
