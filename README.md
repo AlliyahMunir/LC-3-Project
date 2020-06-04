@@ -4,9 +4,9 @@ We're All In This Together LC-3 Group Project
 Group's Name: We're All In This Together
 
 Group Members Include:
-         Alliyah Munir 
-         Lissette Serrato
-         Ariana Nelson
+         Alliyah Munir, 
+         Lissette Serrato,
+         Ariana Nelson, &
          Isaac Martinez
          
 ## Table of contents
