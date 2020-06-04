@@ -8,7 +8,14 @@ We're All In This Together LC-3 Group Project
 - [License](#license)
 - [Author Info](#author-info)
 
-> This is a ReadMe for Alliyahs new cupcake bakery, called "Alliyah's Speedy Cupcakes"
+> This is a ReadMe for an LC-3 Bubble Sort Algorithm Group Project
+Group's Name: We're All In This Together
+
+Group Members Include:
+         Alliyah Munir 
+         Lissette Serrato
+         Ariana Nelson
+         Isaac Martinez
 
 ## General info
 In the language of LC-3, me and my peers created a program that uses bubble sort algorithm to output a set of numbers in ascending order. These numbers are chosen and inputted by the user. To be specific, when the program runs the user is asked to enter a number ranging from 0 - 100. This prompt will loop 8 times, then the user will receive an output of those 8 numbers placed in ascending order using bubble sort algorithm. 
