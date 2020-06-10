@@ -25,7 +25,7 @@ In the language of LC-3, me and my peers created a program that uses bubble sort
 
 ## Bubble Sort Algorithm Code
 ----
-Press on the link above to view our LC-3 on a Bubble Sort Algorithm! 😃
+View the files above to find our program in LC-3 on using Bubble Sort Algorithm! 😃
 
 ---
 
