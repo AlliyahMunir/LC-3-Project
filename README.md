@@ -41,7 +41,14 @@ Reference for Template
 
 Reference for LC-3 Assembly Code
 -------------------------------------------
-IMPORTANT SDGJOVHBPAPDK
+- https://github.com/dideler/LC-3-Programs/blob/master/characterCounter.asm 
+- https://www.reddit.com/r/lc3/comments/5u636w/looping_and_asking_the_same_question_then_quit/
+- https://github.com/professorkaseynguyen/CIS11/blob/master/monthofyear.asm
+- https://github.com/oc-cs360/s2014/blob/master/lc3/bubblesort.asm
+- https://stackoverflow.com/questions/43735625/how-to-make-a-sorting-algorithm-in-assembly-code-in-lc3
+- Notes/Program Lab6 Month of Year in CIS-11 course
+- Lab 3 Notes/Program Suminput in CIS-11 course
+
 
 ---
 
